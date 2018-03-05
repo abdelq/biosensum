@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on BiosensUM</title>
+    <link>https://abdelq.github.io/biosensum/</link>
+    <description>Recent content in Home on BiosensUM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <lastBuildDate>Mon, 07 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://abdelq.github.io/biosensum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://abdelq.github.io/biosensum/about/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdelq.github.io/biosensum/about/</guid>
+      <description>BiosensUM is a multidisciplinary student team that represents Canada in the 2018 SensUs Contest. This Canadian crew is coming from the Université de Montréal and its associated schools, Polytechnique Montréal and HEC Montréal. Graduate and undergraduate students are from different academic fields such as Biochemistry, Chemistry, Engineering, Computer Science and Marketing.
+SensUs is the first international student competition on the development of molecular biosensors for healthcare applications. SensUs is organised by the students of Eidenhoven University of Technology, in the Netherlands, in collaboration with professors of international universities.</description>
+    </item>
+    
+  </channel>
+</rss>

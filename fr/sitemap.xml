@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://abdelq.github.io/biosensum/fr/about/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://abdelq.github.io/biosensum/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://abdelq.github.io/biosensum/fr/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://abdelq.github.io/biosensum/fr/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://abdelq.github.io/biosensum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://abdelq.github.io/biosensum/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://abdelq.github.io/biosensum/fr/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://abdelq.github.io/biosensum/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://abdelq.github.io/biosensum/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://abdelq.github.io/biosensum/fr/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://abdelq.github.io/biosensum/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://abdelq.github.io/biosensum/fr/tags/"
+                />
+  </url>
+  
+</urlset>
