@@ -1,3 +1,33 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://biosensum.github.io"
+languageCode = "fr-ca"
+title = "BiosensUM"
+
+# Theme to use
+theme = "hugo-material-blog"
+
+# Links format
+[permalinks]
+  post = "/:year/:month/:title/"
+
+# Localization
+defaultContentLanguage = "fr"
+
+# French
+[languages.fr]
+  languageName = "Français"
+
+  # Main menu
+  [[languages.fr.menu.main]]
+    url = "/fr/"
+    name = "Accueil"
+    weight = 1
+
+# English
+[languages.en]
+  languageName = "English"
+
+  # Main menu
+  [[languages.en.menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
