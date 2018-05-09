@@ -1,6 +1,8 @@
 baseurl = "https://abdelq.github.io/biosensum/"
 languageCode = "fr-ca"
 title = "BiosensUM"
+relativeURLs = true
+canonifyURLs = true
 
 # Theme to use
 theme = "hugo-material-blog"
