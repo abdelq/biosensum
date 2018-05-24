@@ -6,10 +6,36 @@
     <description>Recent content in Accueil on BiosensUM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Mon, 07 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://abdelq.github.io/biosensum/fr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Notre équipe</title>
+      <link>https://abdelq.github.io/biosensum/fr/team/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdelq.github.io/biosensum/fr/team/</guid>
+      <description>Marie-Pier Dinel
+Présidente &amp;amp; VP Sciences
+Marie-Pier est candidate à la maîtrise en chimie dans le groupe du Pr. Jean-François Masson. Elle est spécialisée dans le développement de biocapteurs médicaux à l’aide de la spectroscopie de résonance des plasmons de surface.
+LinkedIn Twitter
+Jean-Antoine Gauthier Cyr
+VP Technologie
+Jean-Antoine est diplômé du baccalauréat en chimie à l’Université de Montréal et maintenant étudiant en génie chimique à la Polytechnique.
+LinkedIn
+Antoine Nkaye</description>
+    </item>
+    
+    <item>
+      <title>Rejoins BiosensUM 2019!</title>
+      <link>https://abdelq.github.io/biosensum/fr/join/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdelq.github.io/biosensum/fr/join/</guid>
+      <description>Chaque année, une nouvelle équipe de BiosensUM représentant l’Université de Montréal (et le Canada!) à la Compétition SensUs est formée. Elle est constituée d’une équipe d’étudiant.e.s provenant des diverses écoles du Campus de l’Université de Montréal soient la Polytechnique, le HEC et l’Université de Montréal. Nous avons besoin de chimistes et de biochimistes pour le développement de l’essai et son optimisation chimique et biologique. Les physicien.ne.s, ingénieur.e.s ainsi que les informaticien.</description>
+    </item>
     
     <item>
       <title>À propos</title>
