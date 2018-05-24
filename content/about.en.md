@@ -2,7 +2,6 @@
 title: "About"
 date: "2018-05-07"
 menu: "main"
-cover_image: "images/team.jpg"
 ---
 
 BiosensUM is a multidisciplinary student team that represents Canada in the
@@ -27,24 +26,3 @@ learn new sensing techniques, combine programming technologies and elaborate a
 business plan for their future enterprise.
 
 BiosensUM is ready for this challenge and hopes to achieve it successfully!
-
-**Team Members :**
-
-* Godefroy Borduas
-* Marie-Pier Dinel (M.Sc. Chemistry)
-* Elizabeth Elder (B.Sc. Biochemistry)
-* Frédéric Fournelle (B.Sc. Chemistry)
-* Jean-Antoine Gauthier Cyr (B.Sc. Chemistry & Chemical Engineering)
-* Laurianne Gravel Tatta (B.Sc. Chemistry)
-* Zoubaire Moustaine
-* Abdelhakim Qbaich
-* Madline Sauvage (M.Sc Molecular Biology)
-
-**Supervisor :**
-Pr. Jean-François Masson (Full professor, Department of Chemistry, University
-of Montreal)
-
-**Coach :**
-Delphine Bouilly (Assistant-professor in Physics & Principal Investigator at
-the Institute for research in immunology and cancer (IRIC), University of
-Montreal)

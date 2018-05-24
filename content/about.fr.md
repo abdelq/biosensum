@@ -2,7 +2,6 @@
 title: "À propos"
 date: "2018-05-07"
 menu: "main"
-cover_image: "images/team.jpg"
 ---
 
 BiosensUM est une équipe étudiante multidisciplinaire représentant le Canada au
@@ -28,24 +27,3 @@ nouvelles techniques scientifiques, combiner des techniques de programmation et
 élaborer un plan de développement pour leur future entreprise.
 
 BiosensUM est prêt à relever ce défi et croit pouvoir le réaliser avec succès !
-
-**Membres de l’équipe :**
-
-* Godefroy Borduas
-* Marie-Pier Dinel (M.Sc. Chimie)
-* Elizabeth Elder (B.Sc. Biochimie)
-* Frédéric Fournelle (B.Sc. Chimie)
-* Jean-Antoine Gauthier Cyr (B.Sc. Chimie & Génie chimique)
-* Laurianne Gravel Tatta (B.Sc. Chimie)
-* Zoubaire Moustaine
-* Abdelhakim Qbaich (B.Sc. Informatique)
-* Madline Sauvage (M.Sc. Biologie moléculaire)
-
-**Superviseur :**
-Pr. Jean-François Masson (Professeur titulaire, Département de Chimie,
-Université de Montréal)
-
-**Coach :**
-Delphine Bouilly Ph.D. (Professeure sous-octroi adjointe au Département de
-Physique & Chercheuse principale à l’Institut de Recherche en Immunologie et en
-Cancérologie (IRIC), Université de Montréal)
