@@ -7,7 +7,7 @@ cover_image: "images/team.jpg"
 
 **Marie-Pier Dinel**
 
-*Présidente & VP Sciences*
+*Présidente*
 
 Marie-Pier est candidate à la maîtrise en chimie dans le groupe du
 Pr. Jean-François Masson. Elle est spécialisée dans le développement de
@@ -108,10 +108,20 @@ Abdelhakim est un étudiant au baccalauréat en informatique.
 
 **Madline Sauvage**
 
-*Membre Sciences*
+*VP Sciences*
 
-<!--Madline est finissante à la maîtrise en ????. Elle commence maintenant son
-doctorat avec le groupe du Delphine Bouilly PhD spécialisé en …?-->
+Madline est VP de l’équipe scientifique de BiosensUM. Madline est très impliqué
+dans le laboratoire où elle performe de nombreuses analyses et participe
+activement au développement du biocapteur. En tant que Chef de l’équipe
+scientifique, elle s’assure que nous atteignions nos objectifs et que nous
+développions un biocapteur à la fine pointe de la technologie.
+
+Elle est présentement dans la première année de son Ph.D. en Biologie
+Moléculaire à l’IRIC, sur le campus de l’Université de Montréal où elle dirige
+deux projets de recherche dans le développement de biocapteurs pour le
+diagnostic et le suivi du cancer du sein. En plus de ce projet, Madline aime
+beaucoup faire la fête et pratiquer des sports extrêmes comme faire du vélo dans
+les rues de Montréal.
 
 ---
 
