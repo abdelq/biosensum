@@ -6,10 +6,49 @@
     <description>Recent content in Home on BiosensUM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Mon, 07 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://abdelq.github.io/biosensum/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Join BiosensUM 2019!</title>
+      <link>https://abdelq.github.io/biosensum/join/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdelq.github.io/biosensum/join/</guid>
+      <description>Each year, a new BiosensUM team representing the University of Montreal (and Canada!) at the SensUs Competition is formed. It consists of a team of students from the various schools of the University of Montreal Campus, Polytechnique, HEC and Université de Montréal. We need chemists and biochemists for the development of the test and its chemical and biological optimization. Physicists, engineers and computer scientists are also needed for the development and programming of the analytical instrument.</description>
+    </item>
+    
+    <item>
+      <title>Our team</title>
+      <link>https://abdelq.github.io/biosensum/team/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdelq.github.io/biosensum/team/</guid>
+      <description>Marie-Pier Dinel
+President
+Marie-Pier is a master&amp;rsquo;s candidate in chemistry in the group of Prof. Jean-François Masson. She specializes in the development of medical biosensors using surface plasmon resonance spectroscopy.
+LinkedIn Twitter
+Jean-Antoine Gauthier Cyr
+VP Technology
+Jean-Antoine graduated from the University of Montreal with a Bachelor&amp;rsquo;s degree in Chemistry and is now a Chemical Engineering student at Polytechnique.
+LinkedIn
+Antoine Nkaye
+VP Entrepreneurship
+Antoine is completing a certificate leading to the CPA / CFA profession at HEC Montréal.</description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>https://abdelq.github.io/biosensum/sponsors/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdelq.github.io/biosensum/sponsors/</guid>
+      <description>article img { margin: 16px; width: 256px; }  Vice-Rector for Student Affairs and Studies
+Vice-Rector for International Affairs and Francophony
+Regional Mass Spectrometry Centre</description>
+    </item>
     
     <item>
       <title>About</title>
