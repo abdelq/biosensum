@@ -25,4 +25,5 @@ point-of-care biosensor for vancomycin, an antibiotic. BiosensUM members will
 learn new sensing techniques, combine programming technologies and elaborate a
 business plan for their future enterprise.
 
-BiosensUM is ready for this challenge and hopes to achieve it successfully!
+BiosensUM is ready to take up this challenge and believes that it can be done
+successfully!
