@@ -4,12 +4,7 @@ date: "2018-08-20"
 menu: "main"
 ---
 
-<style>
-    article img {
-        margin: 16px;
-        width: 256px;
-    }
-</style>
+<!--more-->
 
 [Vice-rectorat aux affaires étudiantes et aux études](//recteur.umontreal.ca/equipe-de-direction/vice-rectrice-aux-affaires-etudiantes-et-aux-etudes/equipe)
 
@@ -28,3 +23,10 @@ menu: "main"
 [![Creative Diagnostics](../../images/sponsors/creative_diagnostics.jpg)](//creative-diagnostics.com)
 [![ALine](../../images/sponsors/aline.png)](//alineinc.com)
 [![Fondation ASEQ](../../images/sponsors/aseq.png)](http://fondationaseq.com)
+
+<style>
+    article img {
+        margin: 16px;
+        width: 256px;
+    }
+</style>

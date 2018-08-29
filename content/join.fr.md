@@ -15,6 +15,8 @@ aussi au développement et à la programmation de l’instrument analytique. Les
 étudiant.e.s en design industriel sont aussi les bienvenues afin d’optimiser
 l’aspect ‘’user-friendly’’, innovateur et portable de l’instrument.
 
+<!--more-->
+
 La compétition possède aussi un aspect entrepreneurial nécessitant des personnes
 du domaine du marketing, développement des affaires et etc. Finalement, nous
 avons besoin de quelqu’un.e pour s’occuper des relations extérieures, des

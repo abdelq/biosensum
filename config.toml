@@ -30,6 +30,6 @@ defaultContentLanguage = "fr"
 
   # Main menu
   [[languages.en.menu.main]]
-    url = "/"
+    url = "/en/"
     name = "Home"
     weight = 1

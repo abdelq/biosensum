@@ -13,6 +13,8 @@ This Canadian crew is coming from the
 Graduate and undergraduate students are from different academic fields such as
 Biochemistry, Chemistry, Engineering, Computer Science and Marketing.
 
+<!--more-->
+
 SensUs is the first international student competition on the development of
 molecular biosensors for healthcare applications. SensUs is organised by the
 students of [Eidenhoven University of Technology](https://tue.nl), in the

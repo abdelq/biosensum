@@ -14,6 +14,8 @@ the development and programming of the analytical instrument. Students in
 industrial design are also welcome to optimize the user-friendly, innovative and
 portable aspect of the instrument.
 
+<!--more-->
+
 The competition also has an entrepreneurial aspect requiring people from the
 field of marketing, business development and so on. Finally, we need someone to
 be responsible for external relations, sponsors and social networks.

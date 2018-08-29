@@ -13,6 +13,8 @@ l’[Université de Montréal](http://umontreal.ca) et de ses écoles affiliées
 Les membres de l’équipe proviennent de différents domaines académiques tels la
 biochimie, la chimie, l’ingénierie, les sciences informatiques et le marketing.
 
+<!--more-->
+
 SensUs est la première compétition internationale étudiante portant sur le
 développement de biocapteurs à application médicale. SensUs est organisé par
 des étudiantes et étudiants de

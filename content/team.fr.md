@@ -5,6 +5,8 @@ menu: "main"
 cover_image: "images/team.jpg"
 ---
 
+<!--more-->
+
 **Marie-Pier Dinel**
 
 *Présidente*
@@ -73,6 +75,8 @@ Frédéric est finissant au baccalauréat en chimie et poursuit ses études dans
 groupe du Pr. Pierre Chaurand spécialisé en spectrométrie de masse. Dans le
 cadre de son baccalauréat, il a réalisé un échange étudiant à l’Université
 libre de Bruxelles.
+
+[LinkedIn](//linkedin.com/in/frédéric-fournelle-5a3a8b169)
 
 ---
 

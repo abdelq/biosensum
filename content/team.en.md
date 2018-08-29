@@ -5,6 +5,8 @@ menu: "main"
 cover_image: "images/team.jpg"
 ---
 
+<!--more-->
+
 **Marie-Pier Dinel**
 
 *President*
@@ -72,6 +74,8 @@ Frédéric graduated with a bachelor's degree in chemistry and continued his
 studies in the group of Pr. Pierre Chaurand specialized in mass spectrometry. As
 part of his bachelor's degree, he completed a student exchange at the Free
 University of Brussels.
+
+[LinkedIn](//linkedin.com/in/frédéric-fournelle-5a3a8b169)
 
 ---
 
