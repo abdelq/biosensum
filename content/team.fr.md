@@ -21,6 +21,23 @@ surface.
 
 ---
 
+**Madline Sauvage**
+
+*VP Sciences*
+
+Madline est VP de l’équipe scientifique de BiosensUM. Madline est très impliqué
+dans le laboratoire où elle performe de nombreuses analyses et participe
+activement au développement du biocapteur. En tant que Chef de l’équipe
+scientifique, elle s’assure que nous atteignions nos objectifs et que nous
+développions un biocapteur à la fine pointe de la technologie.
+
+Elle est présentement dans la première année de son Ph.D. en Biologie
+Moléculaire à l’IRIC, sur le campus de l’Université de Montréal où elle dirige
+deux projets de recherche dans le développement de biocapteurs pour le
+diagnostic et le suivi du cancer du sein.
+
+---
+
 **Jean-Antoine Gauthier Cyr**
 
 *VP Technologie*
@@ -110,22 +127,16 @@ Abdelhakim est un étudiant au baccalauréat en informatique.
 
 ---
 
-**Madline Sauvage**
+**Pr. Delphine Bouilly**
 
-*VP Sciences*
+*Collaboratrice*
 
-Madline est VP de l’équipe scientifique de BiosensUM. Madline est très impliqué
-dans le laboratoire où elle performe de nombreuses analyses et participe
-activement au développement du biocapteur. En tant que Chef de l’équipe
-scientifique, elle s’assure que nous atteignions nos objectifs et que nous
-développions un biocapteur à la fine pointe de la technologie.
+Prof. Bouilly est une chercheure principale à l'IRIC et une professeure sous
+octroi adjoint au département de physique de l'Université de Montréal. Elle a
+aidé avec l'essai biologique ainsi que la détection.
 
-Elle est présentement dans la première année de son Ph.D. en Biologie
-Moléculaire à l’IRIC, sur le campus de l’Université de Montréal où elle dirige
-deux projets de recherche dans le développement de biocapteurs pour le
-diagnostic et le suivi du cancer du sein. En plus de ce projet, Madline aime
-beaucoup faire la fête et pratiquer des sports extrêmes comme faire du vélo dans
-les rues de Montréal.
+[LinkedIn](//linkedin.com/in/delphine-bouilly-06753053)
+[Twitter](//twitter.com/delphinebouilly)
 
 ---
 
@@ -136,7 +147,8 @@ les rues de Montréal.
 Pr. Masson est professeur titulaire du Département de chimie de l’Université de
 Montréal. Il est spécialisé en développement d’instruments analytiques,
 biodétection avec des matériaux plasmoniques et la détection directe à l’aide
-de biofluides.
+de biofluides, ce qui nous a aidé dans le développement de l'essai biologique et
+des aspects technologiques.
 
 [LinkedIn](//linkedin.com/in/jean-francois-masson-5071181a)
 [Twitter](//twitter.com/Masson_chem)

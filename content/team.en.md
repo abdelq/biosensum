@@ -20,6 +20,21 @@ using surface plasmon resonance spectroscopy.
 
 ---
 
+**Madline Sauvage**
+
+*VP Sciences*
+
+This is Madline, VP of BiosensUM scientific team. In the team, Madline is realy
+involed in the laboratory and performed a lot of analyses for the development of
+the biosensor. As a VP science team leader, she makes sure that we archive our
+goal and develop a powerful biosensor.
+
+She is in the first year of her Ph.D. in Molecular Biology at IRIC on University
+of Montreal Campus where she leads two projects related to breast cancer and the
+development of biosensors for the diagnosis and monitoring of this cancer.
+
+---
+
 **Jean-Antoine Gauthier Cyr**
 
 *VP Technology*
@@ -109,20 +124,16 @@ Abdelhakim is a undergraduate student in computer science.
 
 ---
 
-**Madline Sauvage**
+**Pr. Delphine Bouilly**
 
-*VP Sciences*
+*Collaborator*
 
-This is Madline, VP of BiosensUM scientific team. In the team, Madline is realy
-involed in the laboratory and performed a lot of analyses for the development of
-the biosensor. As a VP science team leader, she makes sure that we archive our
-goal and develop a powerful biosensor.
+Prof. Bouilly is a principal investigator at the IRIC and an assistant professor
+in the physics department at the University of Montreal. She helped us with the
+bioassay and the detection.
 
-She is in the first year of her Ph.D. in Molecular Biology at IRIC on University
-of Montreal Campus where she leads two projects related to breast cancer and the
-development of biosensors for the diagnosis and monitoring of this cancer. In
-addition to enjoying partying, Madline also likes barbecues with friends but
-also practice extreme sports such as bicycling in Montreal.
+[LinkedIn](//linkedin.com/in/delphine-bouilly-06753053)
+[Twitter](//twitter.com/delphinebouilly)
 
 ---
 
@@ -130,9 +141,11 @@ also practice extreme sports such as bicycling in Montreal.
 
 *Supervisor*
 
-Pr. Masson is a full professor in the Department of Chemistry at the Université
-de Montréal. He specializes in the development of analytical instruments,
-biosensing with plasmonic materials and direct detection using biofluids.
+Prof. Masson is a full professor in the Department of Chemistry at the
+University of Montreal. He specializes in the development of analytical
+instruments, biosensing with plasmonic materials and direct detection using
+biofluids, which helped us with the design of the bioassay and the technological
+aspects.
 
 [LinkedIn](//linkedin.com/in/jean-francois-masson-5071181a)
 [Twitter](//twitter.com/Masson_chem)
