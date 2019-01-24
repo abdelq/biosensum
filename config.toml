@@ -3,6 +3,7 @@ languageCode = "fr-ca"
 title = "BiosensUM"
 relativeURLs = true
 canonifyURLs = true
+publishDir = "docs"
 
 # Theme to use
 theme = "hugo-material-blog"
