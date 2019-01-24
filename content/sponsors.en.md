@@ -23,10 +23,3 @@ menu: "main"
 [![Creative Diagnostics](../images/sponsors/creative_diagnostics.jpg)](//creative-diagnostics.com)
 [![ALine](../images/sponsors/aline.png)](//alineinc.com)
 [![ASEQ foundation](../images/sponsors/aseq.png)](http://fondationaseq.com/en)
-
-<style>
-    article img {
-        margin: 16px;
-        width: 256px;
-    }
-</style>
