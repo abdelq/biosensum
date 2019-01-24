@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on BiosensUM</title>
+    <link>https://abdelq.github.io/biosensum/</link>
+    <description>Recent content in Home on BiosensUM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <lastBuildDate>Wed, 22 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://abdelq.github.io/biosensum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Join BiosensUM 2019!</title>
+      <link>https://abdelq.github.io/biosensum/join/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdelq.github.io/biosensum/join/</guid>
+      <description>&lt;p&gt;Each year, a new BiosensUM team representing the University of Montreal
+(and Canada!) at the &lt;a href=&#34;//sensus.org&#34;&gt;SensUs&lt;/a&gt; Competition is formed. It consists
+of a team of students from the various schools of the University of Montreal
+Campus, Polytechnique, HEC and Université de Montréal. We need chemists and
+biochemists for the development of the test and its chemical and biological
+optimization. Physicists, engineers and computer scientists are also needed for
+the development and programming of the analytical instrument. Students in
+industrial design are also welcome to optimize the user-friendly, innovative and
+portable aspect of the instrument.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Our team</title>
+      <link>https://abdelq.github.io/biosensum/team/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdelq.github.io/biosensum/team/</guid>
+      <description>Marie-Pier Dinel
+President
+Marie-Pier is a master&amp;rsquo;s candidate in chemistry in the group of Prof. Jean-François Masson. She specializes in the development of medical biosensors using surface plasmon resonance spectroscopy.
+LinkedIn Twitter
+Madline Sauvage
+VP Sciences
+This is Madline, VP of BiosensUM scientific team. In the team, Madline is realy involed in the laboratory and performed a lot of analyses for the development of the biosensor. As a VP science team leader, she makes sure that we archive our goal and develop a powerful biosensor.</description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>https://abdelq.github.io/biosensum/sponsors/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdelq.github.io/biosensum/sponsors/</guid>
+      <description>Vice-Rector for Student Affairs and Studies
+Vice-Rector for International Affairs and Francophony
+Regional Mass Spectrometry Centre
+          
+ article img { margin: 16px; width: 256px; } </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://abdelq.github.io/biosensum/about/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdelq.github.io/biosensum/about/</guid>
+      <description>&lt;p&gt;BiosensUM is a multidisciplinary student team that represents Canada in the
+&lt;a href=&#34;https://sensus.org&#34;&gt;2018 SensUs Contest&lt;/a&gt;.
+This Canadian crew is coming from the
+&lt;a href=&#34;http://umontreal.ca&#34;&gt;Université de Montréal&lt;/a&gt; and its associated schools,
+&lt;a href=&#34;https://www.polymtl.ca&#34;&gt;Polytechnique Montréal&lt;/a&gt; and
+&lt;a href=&#34;https://hec.ca&#34;&gt;HEC Montréal&lt;/a&gt;.
+Graduate and undergraduate students are from different academic fields such as
+Biochemistry, Chemistry, Engineering, Computer Science and Marketing.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
